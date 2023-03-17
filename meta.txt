@@ -7,3 +7,9 @@
 <field>
 	field3
 </field>
+<field>
+	field4
+</field>
+<field>
+	field5
+</field>
