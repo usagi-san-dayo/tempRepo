@@ -1,3 +1,9 @@
 <field>
 	field1
 </field>
+<field>
+	field2
+</field>
+<field>
+	field3
+</field>
