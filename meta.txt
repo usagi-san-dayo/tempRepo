@@ -3,4 +3,5 @@
 </field>
 <field>
 	fieldB
+	fieldB
 </field>
