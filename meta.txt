@@ -1,0 +1,17 @@
+<permissionSets>
+	field1
+</permissionSets>
+<permissionSets>
+	field2
+</permissionSets>
+<permissionSets>
+<<<<<<< HEAD
+	field3
+</permissionSets>
+=======
+	field4
+</permissionSets>
+<permissionSets>
+	field5
+</permissionSets>
+>>>>>>> featureB
