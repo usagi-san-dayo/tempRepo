@@ -1,3 +1,6 @@
 <field>
 	field1
 </field>
+<field>
+	fieldB
+</field>
