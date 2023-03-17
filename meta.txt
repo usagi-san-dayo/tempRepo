@@ -2,6 +2,10 @@
 	field1
 </field>
 <field>
+	fieldB
+	fieldB
+</field>
+<field>
 	field2
 </field>
 <field>
